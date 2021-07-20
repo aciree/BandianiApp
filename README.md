@@ -17,10 +17,10 @@
 (to be uploaded; 𝘮𝘢𝘴𝘪𝘩 𝘮𝘦𝘯𝘤𝘢𝘳𝘪 𝘵𝘢𝘩𝘶 𝘣𝘢𝘨𝘢𝘪𝘮𝘢𝘯𝘢 𝘤𝘢𝘳𝘢 𝘶𝘯𝘨𝘨𝘢𝘩 𝘨𝘢𝘮𝘣𝘢𝘳𝘯𝘺𝘢 𝘣𝘪𝘢𝘳 𝘳𝘢𝘱𝘪)
 
 # Technical Features
-- Splash Screen
+- SplashScreen
 - Button(s) -> to direct users to two different activities/pages
 - RecyclerView -> to display the list of plants
-- Rotation view -> maintain the layout of the application
+- Rotation view -> to maintain the layout of the application
 - ScrollView
 - Colors selection that matches the application theme (𝘐 𝘵𝘳𝘪𝘦𝘥)
 
