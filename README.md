@@ -14,18 +14,18 @@ Why would I ever build this app in the first place? Stay tuned!
 📱 works on various devices such as phones and tablets
 
 # Screenshots
-
-![20210720_232704](https://user-images.githubusercontent.com/81869233/126361332-5ed223b7-e46b-44bf-bd56-b1bd20485eae.jpg){:height="50%" width="50%"}
-![20210720_232724](https://user-images.githubusercontent.com/81869233/126361370-370eb9d9-85ab-48c3-9371-b9f6c3206114.jpg){:height="50%" width="50%"}
-![20210720_232741](https://user-images.githubusercontent.com/81869233/126361413-f2cab6d8-2a97-4fcd-b870-5218e500977d.jpg){:height="50%" width="50%"}
+<img src="https://your-image-url.type" width="100" height="100">
+<20210720_232704="https://user-images.githubusercontent.com/81869233/126361332-5ed223b7-e46b-44bf-bd56-b1bd20485eae.jpg" width="100" height="100">
+<20210720_232724="https://user-images.githubusercontent.com/81869233/126361370-370eb9d9-85ab-48c3-9371-b9f6c3206114.jpg" width="100" height="100">
+<20210720_232741="https://user-images.githubusercontent.com/81869233/126361413-f2cab6d8-2a97-4fcd-b870-5218e500977d.jpg" width="100" height="100">
 
 # Technical Features
-• Splash Screen
-• Button(s) -> to direct users to two different activities/pages
-• RecyclerView -> to display the list of plants
-• Rotation view -> maintain the layout of the application
-• ScrollView
-• Colors selection that matches the application theme (I tried)
+- Splash Screen
+- Button(s) -> to direct users to two different activities/pages
+- RecyclerView -> to display the list of plants
+- Rotation view -> maintain the layout of the application
+- ScrollView
+- Colors selection that matches the application theme (𝘐 𝘵𝘳𝘪𝘦𝘥)
 
 # Attributions
 Fonts used:
