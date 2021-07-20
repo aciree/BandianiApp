@@ -1,23 +1,20 @@
 # About Bandiani
-"𝘉𝘢𝘯𝘥𝘪𝘢𝘯𝘪" is a Javanese term which means "coolness". The reason behind such name is because this hooman wants to inform the users/visitors/fellow living creatures about the many kinds of indoor plants that purify air. Hence, the name; Bandiani.
+"𝘽𝙖𝙣𝙙𝙞𝙖𝙣𝙞" is a Javanese term which means "coolness". The reason behind such name is because this hooman wants to inform the users/visitors/fellow living creatures about the many kinds of indoor plants that purify air. Hence, the name; Bandiani.
 
-Fun fact: This humble application is the first application I have ever created #proud.
+𝗙𝘂𝗻 𝗳𝗮𝗰𝘁: This humble application is THE first application I have ever created #𝗽𝗿𝗼𝘂𝗱.
 
-Why would I ever build this app in the first place? Stay tuned! 
+𝘗𝘚. 𝘸𝘩𝘺 𝘸𝘰𝘶𝘭𝘥 𝘐 𝘦𝘷𝘦𝘳 𝘣𝘶𝘪𝘭𝘥 𝘵𝘩𝘪𝘴 𝘢𝘱𝘱 𝘪𝘯 𝘵𝘩𝘦 𝘧𝘪𝘳𝘴𝘵 𝘱𝘭𝘢𝘤𝘦? 𝘚𝘵𝘢𝘺 𝘵𝘶𝘯𝘦𝘥!
 
 # Features
-🍃 10+ indoor plants
-🖼️ images included
-📝 descriptions
-🙌🏻 tips on how to take care of the plants
-🔮 more fun facts! AND
-📱 works on various devices such as phones and tablets
+- 🍃 10+ indoor plants
+- 🖼️ images included
+- 📝 descriptions
+- 🙌🏻 tips on how to take care of the plants
+- 🔮 more fun facts! AND
+- 📱 works on various devices such as phones and tablets
 
 # Screenshots
-<img src="https://your-image-url.type" width="100" height="100">
-<20210720_232704="https://user-images.githubusercontent.com/81869233/126361332-5ed223b7-e46b-44bf-bd56-b1bd20485eae.jpg" width="100" height="100">
-<20210720_232724="https://user-images.githubusercontent.com/81869233/126361370-370eb9d9-85ab-48c3-9371-b9f6c3206114.jpg" width="100" height="100">
-<20210720_232741="https://user-images.githubusercontent.com/81869233/126361413-f2cab6d8-2a97-4fcd-b870-5218e500977d.jpg" width="100" height="100">
+(to be uploaded; 𝘮𝘢𝘴𝘪𝘩 𝘮𝘦𝘯𝘤𝘢𝘳𝘪 𝘵𝘢𝘩𝘶 𝘣𝘢𝘨𝘢𝘪𝘮𝘢𝘯𝘢 𝘤𝘢𝘳𝘢 𝘶𝘯𝘨𝘨𝘢𝘩 𝘨𝘢𝘮𝘣𝘢𝘳𝘯𝘺𝘢 𝘣𝘪𝘢𝘳 𝘳𝘢𝘱𝘪)
 
 # Technical Features
 - Splash Screen
@@ -33,7 +30,7 @@ Fonts used:
   - [Montserrat](https://fonts.google.com/specimen/Montserrat), and
   - [Poppins](https://fonts.google.com/specimen/Poppins)
 
-Images and Descriptions: mentioned in the application
+Images and references: mentioned in the application
 
 # Final Words
 Have you any comments or suggestions regarding this repository, my email is always open!
