@@ -17,7 +17,7 @@
 - 📝 descriptions
 - 🙌🏻 tips on how to take care of the plants
 - 🔮 more fun facts! AND
-- 📱  works on various devices such as phones and tablets
+- 📱   works on various devices such as phones and tablets
 
 # Technical Features
 - SplashScreen
@@ -44,4 +44,5 @@ Have you any comments or suggestions regarding this repository, my email is alwa
 Stay healthy, stay safe, and of course, stay sane! ^^
 
 
-p.s. shoutout to SNF and NNS (you know who you are) who had been patiently answering those myriad questions of mine.
+𝘱.𝘴. 𝘴𝘩𝘰𝘶𝘵𝘰𝘶𝘵 𝘵𝘰 𝘚𝘕𝘍 𝘢𝘯𝘥 𝘕𝘕𝘚 (𝘺𝘰𝘶 𝘬𝘯𝘰𝘸 𝘸𝘩𝘰 𝘺𝘰𝘶 𝘢𝘳𝘦),
+𝘸𝘩𝘰 𝘩𝘢𝘥 𝘣𝘦𝘦𝘯 𝘱𝘢𝘵𝘪𝘦𝘯𝘵𝘭𝘺 𝘢𝘯𝘴𝘸𝘦𝘳𝘪𝘯𝘨 𝘵𝘩𝘰𝘴𝘦 𝘮𝘺𝘳𝘪𝘢𝘥 𝘲𝘶𝘦𝘴𝘵𝘪𝘰𝘯𝘴 𝘰𝘧 𝘮𝘪𝘯𝘦.
