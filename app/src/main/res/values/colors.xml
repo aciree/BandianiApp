@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="deep_teal">#01554D</color>
+    <color name="deeper_teal">#023530</color>
+    <color name="yellow">#FDB824</color>
+    <color name="chenin">#CCBE61</color>
+    <color name="deepchenin">#756E3B</color>
+    <color name="background">#FAFBFA</color>
+    <color name="light_font">#FBFBFB</color>
+    <color name="text_shadow">#7F000000</color>
+    <color name="black">#FF000000</color>
+</resources>

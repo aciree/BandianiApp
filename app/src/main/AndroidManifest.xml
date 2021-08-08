@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.splashscreen">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/bandiani_official"
+        android:label="Bandiani"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.AppCompat.NoActionBar"
+        android:fullBackupContent="@xml/backup_descriptor">
+
+        <meta-data
+            android:name="com.google.android.actions"
+            android:resource="@xml/styles" />
+
+        <activity android:name=".SplashActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <activity android:name=".AfterSplashActivity" />
+
+        <activity android:name=".RegistrationActivity" />
+        <activity
+            android:name=".MainActivity"
+            android:theme="@style/Theme.Bandiani" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".DetailTanamanActivity" />
+    </application>
+
+</manifest>
