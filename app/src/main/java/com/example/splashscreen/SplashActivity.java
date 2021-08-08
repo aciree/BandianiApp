@@ -1,29 +1,19 @@
-package com.example.splashscreen;
+package com.example.splashscreen
 
-import android.content.Intent;
-import android.os.Handler;
-import android.os.Bundle;
+import android.content.Intent
+import android.os.Bundle
+import android.os.Handler
+import androidx.appcompat.app.AppCompatActivity
 
-import androidx.appcompat.app.AppCompatActivity;
-
-public class SplashActivity extends AppCompatActivity {
-    private final int waktu_loading = 3000;
-
-    @Override
-    protected void onCreate(Bundle savedInstanceState) {
-        super.onCreate(savedInstanceState);
-
-        setContentView(R.layout.activity_splash);
-        new Handler().postDelayed(new Runnable() {
-            @Override
-            public void run() {
-
-                //setelah Loading akan langsung pindah ke Home Activity
-                Intent home = new Intent(SplashActivity.this, AfterSplashActivity.class);
-                startActivity(home);
-                finish();
-
-            }
-        }, waktu_loading);
+class SplashActivity : AppCompatActivity() {
+    private val waktu_loading = 3000
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setContentView(R.layout.activity_splash)
+        Handler().postDelayed
+            val home = Intent(this@SplashActivity, AfterSplashActivity::class.java)
+            startActivity(home)
+            finish()
+        }, waktu_loading.toLong())
     }
 }
